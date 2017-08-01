@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d14652-1bba-467e-8ebe-a0bc731f3d49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HasSubtree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Merge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Mirror.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,16 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RectCover.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RectCover.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NumberOf1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberOf1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +102,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HasSubtree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HasSubtree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HasSubtree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
               <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mirror.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Mirror.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/Merge.java" />
         <option value="$PROJECT_DIR$/src/HasSubtree.java" />
+        <option value="$PROJECT_DIR$/src/Mirror.java" />
       </list>
     </option>
   </component>
@@ -172,8 +172,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="270" />
-    <option name="y" value="23" />
+    <option name="x" value="248" />
+    <option name="y" value="75" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
   </component>
@@ -673,15 +673,15 @@
       <workItem from="1501035932974" duration="6221000" />
       <workItem from="1501133583975" duration="13421000" />
       <workItem from="1501230299737" duration="325000" />
-      <workItem from="1501569967007" duration="5741000" />
+      <workItem from="1501569967007" duration="6581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31368000" />
+    <option name="totallyTimeSpent" value="32208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="270" y="23" width="1280" height="714" extended-state="0" />
+    <frame x="248" y="75" width="1280" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1045,6 +1045,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
