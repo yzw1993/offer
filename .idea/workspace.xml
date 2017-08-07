@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d14652-1bba-467e-8ebe-a0bc731f3d49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Clone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Convert1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Convert2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindPath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/offer/PrintMatrix.class" afterPath="$PROJECT_DIR$/out/production/offer/PrintMatrix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Convert2.java" afterPath="$PROJECT_DIR$/src/Convert2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,8 +102,8 @@
       <file leaf-file-name="Convert2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Convert2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="187">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -117,8 +112,8 @@
       <file leaf-file-name="Convert1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Convert1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="249">
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="40" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -250,6 +245,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="304" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
@@ -754,15 +750,15 @@
       <workItem from="1501651374122" duration="9067000" />
       <workItem from="1501748086956" duration="2093000" />
       <workItem from="1501811670975" duration="9061000" />
-      <workItem from="1502084092745" duration="7143000" />
+      <workItem from="1502084092745" duration="9056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60166000" />
+    <option name="totallyTimeSpent" value="62079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="714" extended-state="6" />
+    <frame x="304" y="23" width="1280" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1257,8 +1253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Convert1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="249">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -1271,8 +1267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Convert2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding />
         </state>
       </provider>
