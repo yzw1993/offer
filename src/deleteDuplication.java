@@ -27,6 +27,6 @@ public class deleteDuplication {
                 p=p.next;
             }
         }
-
+        return first.next;
     }
 }
