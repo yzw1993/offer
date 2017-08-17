@@ -7,14 +7,12 @@ import java.util.LinkedList;
 public class maxInWindows {
     public ArrayList<Integer> maxInWindows(int [] num, int size)
     {
-        ArrayList<Integer> ret =new ArrayList<>();
-        if (num==null)
-            return ret;
-        if (num.length<size||size<1)
-            return ret;
+        ArrayList<Integer> res=new ArrayList<>();
         LinkedList<Integer> indexDeque=new LinkedList<>();
+        if (num==null||size<1||size>num.length)
+            return res;
         for (int i=0;i<size-1;i++){
-            while(!indexDeque.isEmpty()&&num[i]>num[indexDeque.getLast()]){
+            while (!indexDeque.isEmpty()&&num[i]>num[indexDeque.getLast()]){
                 indexDeque.removeLast();
             }
             indexDeque.addLast(i);
@@ -27,8 +25,8 @@ public class maxInWindows {
             if (i-indexDeque.getFirst()+1>size){
                 indexDeque.removeFirst();
             }
-            ret.add(num[indexDeque.getFirst()]);
+            res.add(num[indexDeque.getFirst()]);
         }
-        return ret;
+        return res;
     }
 }
