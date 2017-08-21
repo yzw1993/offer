@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d14652-1bba-467e-8ebe-a0bc731f3d49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FirstAppearingOnce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GetMedian.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GetNext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Print.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Print2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Serialize.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hasPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isNumeric.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isSymmetrical.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/movingCount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/maxInWindows.java" afterPath="$PROJECT_DIR$/src/maxInWindows.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/movingCount.java" afterPath="$PROJECT_DIR$/src/movingCount.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,8 +72,8 @@
       <file leaf-file-name="movingCount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/movingCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="1">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -226,8 +214,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="122" />
-    <option name="y" value="62" />
+    <option name="x" value="63" />
+    <option name="y" value="175" />
     <option name="width" value="1280" />
     <option name="height" value="682" />
   </component>
@@ -739,15 +727,15 @@
       <workItem from="1502763792918" duration="931000" />
       <workItem from="1502765154159" duration="1836000" />
       <workItem from="1502777680727" duration="20908000" />
-      <workItem from="1502937860178" duration="8635000" />
+      <workItem from="1502937860178" duration="9486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114833000" />
+    <option name="totallyTimeSpent" value="115684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="62" width="1280" height="682" extended-state="0" />
+    <frame x="63" y="175" width="1280" height="682" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -789,7 +777,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1258,8 +1246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/movingCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="1">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
