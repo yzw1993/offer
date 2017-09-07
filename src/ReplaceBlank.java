@@ -5,13 +5,12 @@ public class ReplaceBlank {
     public String replaceSpace(StringBuffer str) {
         int oldlength=str.length();
         int blanknum=0;
-        for(int i=0;i<oldlength;i++){
-            if (str.charAt(i)==' '){
-                blanknum ++;
-            }
+        for (int i=0;i<oldlength;i++){
+            if (str.charAt(i)==' ')
+                blanknum++;
         }
         int newlength=oldlength+2*blanknum;
-        int newindex =newlength-1;
+        int newindex=newlength-1;
         str.setLength(newlength);
         for (int oldindex=oldlength-1;oldindex>=0;oldindex--){
             if (str.charAt(oldindex)==' '){
@@ -23,5 +22,7 @@ public class ReplaceBlank {
                 str.setCharAt(newindex--,str.charAt(oldindex));
         }
         return str.toString();
+
+
     }
 }
