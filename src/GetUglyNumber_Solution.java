@@ -1,8 +1,16 @@
+import java.util.Scanner;
+
 /**
  * Created by zeweiyang on 2017/8/11.
  */
 public class GetUglyNumber_Solution {
-    public int GetUglyNumber_Solution(int index) {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        System.out.print(GetUglyNumber_Solution(n));
+    }
+    public static int GetUglyNumber_Solution(int index) {
         if(index<=0)
             return 0;
         int[] result=new int[index];
@@ -20,7 +28,7 @@ public class GetUglyNumber_Solution {
         }
         return result[index-1];
     }
-    public int min(int i,int j,int k){
+    public static int min(int i,int j,int k){
         int temp=i<j?i:j;
         return temp<k?temp:k;
     }
